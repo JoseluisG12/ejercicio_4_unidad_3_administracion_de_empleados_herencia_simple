@@ -1,0 +1,11 @@
+dni;nombre;direccion;telefono;tarea;fecha_inicio;fecha_finalizado;monto_viatico;costo_obra;monto_seguro_vida
+111111112;Javier Perez;Calle Principal 123;123456789;carpinteria;2022-01-01;2022-02-28;200;200000;10000
+222222223;Marina Lopez;Avenida Central 456;987654321;electricidad;2022-02-15;2023-03-31;150;50000;8000
+333333334;Carlos Gonzalez;Plaza Mayor 789;456123789;plomeria;2022-03-01;2022-05-31;180;80000;12000
+444444445;Lucia Fernandez;Calle Secundaria 456;321987654;carpinteria;2022-04-01;2023-05-30;220;60000;10000
+555555556;Andres Martinez;Avenida Principal 789;654987321;electricidad;2022-05-15;2023-08-31;200;140000;9000
+666666667;Laura Ramirez;Calle Central 123;789321654;plomeria;2022-06-01;2022-07-31;150;100000;6000
+777777778;Santiago Rodriguez;Avenida Secundaria 456;987123654;carpinteria;2022-07-15;2022-09-30;180;80000;8000
+888888889;Marta Sanchez;Plaza Central 789;123456987;electricidad;2022-08-01;2022-11-30;200;120000;11000
+999999991;Eduardo Torres;Calle Principal 123;654321987;plomeria;2022-09-15;2022-10-31;170;90000;7000
+0000000012;Pedro Gomez;Avenida Central 456;321654987;carpinteria;2022-10-01;2023-06-02;190;180000;10000
